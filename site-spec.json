@@ -1,0 +1,73 @@
+{
+  "websiteTitle": "Maya Manzi | Digital Citizen Portfolio",
+  "tagline": "Learning Technology. Practicing Responsible Digital Citizenship.",
+  "websitePurpose": "To document growth, coursework, and learning throughout CS 125 at Caldwell University. The portfolio represents progress from learning the fundamentals of computer hardware, software, networking, databases, programming, web development, cybersecurity, and artificial intelligence to developing a stronger understanding of how technology can be used responsibly, creatively, and effectively.",
+  "targetAudience": [
+    {
+      "group": "Course Instructors & Evaluators",
+      "focus": "Reviewing semester milestones, module reflections, and demonstration of digital citizenship concepts in CS 125."
+    },
+    {
+      "group": "Academic Peers & Collaborators",
+      "focus": "Engaging on shared learning, group projects, and exploring collaborative technology tools."
+    },
+    {
+      "group": "Prospective Mentors & Employers",
+      "focus": "Observing foundational learning agility, communication strengths, research abilities, and creative problem solving."
+    }
+  ],
+  "plannedPages": [
+    {
+      "name": "Home",
+      "slug": "#home",
+      "description": "High-impact hero section presenting the personal brand, introductory mission, CS 125 focus, and direct navigation links."
+    },
+    {
+      "name": "About Me",
+      "slug": "#about",
+      "description": "Personal narrative, quick profile (location: NJ, USA; favorite food: Mac and cheese; favorite movie: Spider-Man; interests: drawing, singing, watching shows), and learning philosophy."
+    },
+    {
+      "name": "Education",
+      "slug": "#education",
+      "description": "Caldwell University (current college student), AP Psychology, and AP English Language and Composition."
+    },
+    {
+      "name": "Skills",
+      "slug": "#skills",
+      "description": "Technology Skills in Progress (Digital citizenship, Hardware/Software, Cybersecurity, Networking, Databases, Programming, Web development, AI) and Current Skills (Written communication, Public speaking, Research, Critical thinking, Argumentation, Collaboration, Presentation skills, Creative problem-solving, Time management, Visual/creative design)."
+    },
+    {
+      "name": "Projects",
+      "slug": "#projects",
+      "description": "Coursework explorations, labs, and interactive technology artifacts developed throughout the semester."
+    },
+    {
+      "name": "Security",
+      "slug": "#security",
+      "description": "Cybersecurity and digital hygiene best practices, zero-trust awareness, and interactive security posture checklist."
+    },
+    {
+      "name": "AI",
+      "slug": "#ai",
+      "description": "Foundational artificial intelligence concepts, responsible AI literacy, and interactive prompt testing sandbox."
+    },
+    {
+      "name": "Contact",
+      "slug": "#contact",
+      "description": "Interactive message form and direct email communication channel."
+    }
+  ],
+  "siteMap": {
+    "root": "Home",
+    "children": [
+      { "name": "About Me", "slug": "#about" },
+      { "name": "Education", "slug": "#education" },
+      { "name": "Skills", "slug": "#skills" },
+      { "name": "Projects", "slug": "#projects" },
+      { "name": "Security", "slug": "#security" },
+      { "name": "AI", "slug": "#ai" },
+      { "name": "Contact", "slug": "#contact" }
+    ]
+  }
+}
